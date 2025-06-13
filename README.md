@@ -1,6 +1,6 @@
 # Complaint Registration System
 
-A Spring Boot application for registering and managing complaints using an H2 in-memory database. The system provides RESTful APIs to create, read, update, and delete complaints, along with a Thymeleaf-based web interface for user interaction.
+A Spring Boot application for registering and managing complaints using an H2 in-memory database. The system provides RESTful APIs to create, read, update, and delete complaints, along with a Thymeleaf-based web interface for user interaction. It registers complaints and have options to mark it as ongoing , to be approved and resolved.
 
 ## Features
 - Register complaints with a description and status (OPEN or RESOLVED).
